@@ -1,7 +1,7 @@
 <h1 align="center"> 👩‍💻 PHP & VUE-CLI 👩‍💻 </h1>
 
 ### `說明檔`
- [中文]() | [English]()
+ [中文](/) | [English](./)
 
 
 ### `專案安裝`
@@ -13,8 +13,8 @@ $ npm install
 
 ### `專案執行`
 #### 原生 PHP server + Vue-cli dev
-- 下載 [PHP]()
-- 設定 PHP [環境變數]()
+- 下載 [PHP](/)
+- 設定 PHP [環境變數](./)
 ```javascript
 // npm script : 
 //  "php": "php -S localhost:3000 -t public"
