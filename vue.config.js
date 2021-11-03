@@ -7,12 +7,12 @@ module.exports = {
   ,
 
   //if using xampp 
-  devServer: {
-    proxy: {
-      '^/api': {
-        target: 'http://localhost',
-        changeOrigin: true
-      }
-    }
-  }
+//   devServer: {
+//     proxy: {
+//       '^/api': {
+//         target: 'http://localhost',
+//         changeOrigin: true
+//       }
+//     }
+//   }
 }
